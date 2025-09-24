@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/hrb-edge/:/",
-    "/content/hrb-edge/configuration:/.helix/config.json",
-    "/content/hrb-edge/metadata:/metadata.json"
+    "/content/hrblock/en-us/edge/:/",
+    "/content/hrblock/en-us/edge/configuration:/.helix/config.json",
+    "/content/hrblock/en-us/edge/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/hrb-edge/"
+    "/content/hrblock/en-us/edge/"
   ]
 }
