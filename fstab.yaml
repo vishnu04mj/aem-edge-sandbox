@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p134652-e1338859.adobeaemcloud.com/bin/franklin.delivery/vishnu04mj/aem-edge-sandbox/main"
-    type: "markup"
-    suffix: ".html"
+    /: https://drive.google.com/drive/folders/1ScXx2dSO_Q0UlOjgToqdrnM0B3YPslEg
