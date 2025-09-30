@@ -1,6 +1,6 @@
 /* header and nav layout */
 header .nav-wrapper {
-  background-color: var(--background-color);
+  background-color: green;
   width: 100%;
   z-index: 2;
   position: fixed;
@@ -48,6 +48,7 @@ header nav[aria-expanded='true'] {
 header nav p {
   margin: 0;
   line-height: 1;
+  color: white;
 }
 
 header nav a:any-link {
