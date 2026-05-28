@@ -1,5 +1,5 @@
 {
   "project": "HRB Edge POC",
   "editUrlLabel": "AEM Editor",
-  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}.docx"
+  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
 }
