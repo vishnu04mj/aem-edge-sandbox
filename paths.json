@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/hrblock/en-us/hrb-eds-testing/:/",
-    "/content/hrblock/en-us/hrb-eds-testing/configuration:/.helix/config.json",
-    "/content/hrblock/en-us/hrb-eds-testing/metadata:/metadata.json"
+    "/content/hrb-eds-testing/:/",
+    "/content/hrb-eds-testing/configuration:/.helix/config.json",
+    "/content/hrb-eds-testing/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/hrblock/en-us/hrb-eds-testing/"
+    "/content/hrb-eds-testing/"
   ]
 }
